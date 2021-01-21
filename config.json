@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://Dinar:Dinar@cluster0.bll8z.mongodb.net/Auth?retryWrites=true&w=majority",
+    "ACCESS_TOKEN_SECRET": "83b767f9353cedd883e306dbfcd3f131fb3916eb29f0867c21fca20fb342203643591cdfc955dd0037934a581a043f379953a5034254658e36ec0d104dd1e734",
+    "REFRESH_TOKEN_SECRET": "add25781fc1295d9c04c00ec3ce65cc8ff138c10d8ed2d076804f1fd93f2bd732df367e31e7c2865b60613382ff396a48103e5a732498d4419c260db7cb71476"
+}

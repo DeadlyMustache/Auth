@@ -1,0 +1,15 @@
+POST http://localhost:4000/gettoken
+Content-Type: application/json
+
+{
+    "guid": "Kyle"
+}
+
+###
+
+POST http://localhost:4000/refreshtoken
+Content-Type: application/json
+
+{
+    "refreshToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJndWlkIjoiRGluYXIxNCIsInRpZCI6IjUxMDc3MjEzLTEwNDMtNDg0Ny1iZjBjLWQ0OTYwZTY0YTE3ZiIsImlhdCI6MTYxMTI1MTA2MSwiZXhwIjoxNjQyODA4NjYxfQ.jTeNjbuc016ua0hQwSKTaRQTxY6FJ1QkdF2v7KKji1raGKcWu486P5AwKa7w3J1ynuHSzL6LcZn2QKPWRsvLKQ"
+}
